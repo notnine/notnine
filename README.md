@@ -1,6 +1,6 @@
 ## Hey there 👋 I'm Glen
 
-👨‍💻 swe @ MPAC
+👨‍💻 swe @ MPAC  
 🎓 CS Specialist @ University of Toronto  
 💻 Software Engineer with 2+ years of iGaming, fintech & startup experience  
 🧠 Building smart apps with Python, Java, Kotlin, and LLMs  
