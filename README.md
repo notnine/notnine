@@ -1,6 +1,7 @@
 ## Hey there 👋 I'm Glen
 
-🎓 CS Specialist @ University of Toronto (’25)  
+👨‍💻 swe @ MPAC
+🎓 CS Specialist @ University of Toronto  
 💻 Software Engineer with 2+ years of iGaming, fintech & startup experience  
 🧠 Building smart apps with Python, Java, Kotlin, and LLMs  
 🚀 Love clean code, good UX, and scalable systems  
