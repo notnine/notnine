@@ -7,12 +7,9 @@
 🛠️ Working on [**Velo**](https://github.com/notnine/Velo) — OpenAI-powered mobile (iOS/Android) calendar app (React Native & FastAPI)  
 🔗 [LinkedIn](https://www.linkedin.com/in/glen-jeremy-1b5938169/)  
 
-### 📜 Certifications  
+📜 **Certifications**  
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/5fd8ba70-f615-47db-89db-948de449e4b6/linked_in_profile)  
+- [AWS Certified AI Practitioner](https://www.credly.com/badges/49f32d75-3a9b-42a0-a22d-27f81869340d/linked_in_profile)  
+- AWS Certified Developer – Associate (in progress)
 
-**Completed**  
-[AWS Certified Cloud Practitioner](https://www.credly.com/badges/5fd8ba70-f615-47db-89db-948de449e4b6/linked_in_profile)  
-[AWS Certified AI Practitioner](https://www.credly.com/badges/49f32d75-3a9b-42a0-a22d-27f81869340d/linked_in_profile)  
-
-**In progress**  
-AWS Certified Developer – Associate
-
+  
