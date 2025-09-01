@@ -1,10 +1,10 @@
 ## Hey there 👋 I'm Glen
 
-👨‍💻 swe @ MPAC | CS Specialist @ UofT (St. George)  
-💻 2+ years of Software Engineering in government, iGaming, fintech & startup  
-🧠 Buildin smart apps with Python, Java, Kotlin, and LLMs  
+👨‍💻 Software Engineer @ MPAC | CS Specialist @ UofT (St. George)  
+💻 2+ years of SWE in government, iGaming, fintech & startup  
+🧠 Building smart apps with Python, Java, Kotlin, and LLMs  
 📈 Leveling up in Cloud & CI/CD: AWS, Kubernetes, Docker, Jenkins  
-🛠️ Working on **Velo** — an OpenAI-powered mobile (iOS/Android) calendar app with React Native & FastAPI  
+🛠️ Working on **Velo** — an OpenAI-powered mobile (iOS/Android) calendar app (React Native & FastAPI)  
 🔗 [LinkedIn](https://www.linkedin.com/in/glen-jeremy-1b5938169/)  
 
 📜 **Certifications**  
