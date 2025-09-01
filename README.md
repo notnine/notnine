@@ -9,6 +9,6 @@
 🛠️ Working on **Velo** — an AI-powered minimalist task planner with React Native & FastAPI  
 🔗 [LinkedIn](https://www.linkedin.com/in/glen-jeremy-1b5938169/)  
 
-📜 Certifications  
-- AWS Certified Solutions Architect – Associate  
+📜 **Certifications**  
+[- AWS Certified Solutions Architect – Associate  ](https://www.credly.com/badges/49f32d75-3a9b-42a0-a22d-27f81869340d/linked_in_profile)
 - AWS Certified Developer – Associate
