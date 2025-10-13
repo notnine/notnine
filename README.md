@@ -1,7 +1,7 @@
 ## Hey there 👋 I'm Glen
 
-👨‍💻 Software Engineer @ MPAC | CS Specialist @ UofT (St. George)  
-💻 2+ years of SWE in government, iGaming, fintech & startup  
+👨‍💻 Software Engineer @ Fiserv | CS Specialist @ UofT (St. George)  
+💻 2+ years of SWE in fintech, government, iGaming & startup  
 🧠 Building smart apps with Python, Java, Kotlin, and LLMs  
 📈 Leveling up in Cloud & CI/CD: AWS, Kubernetes, Docker, Jenkins  
 🛠️ Working on [**Velo**](https://github.com/notnine/Velo) — OpenAI-powered mobile (iOS/Android) calendar app (React Native & FastAPI)  
