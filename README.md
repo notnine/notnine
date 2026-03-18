@@ -1,7 +1,7 @@
 ## Hey there 👋 I'm Glen
 
 👨‍💻 Software Engineer @ Fiserv | CS @ UofT (St. George)  
-💻 2+ years of SWE
+💻 2+ years of SWE  
 🧠 Building smart apps with Python, Kotlin, and LLMs  
 📈 Leveling up in Cloud & CI/CD: AWS, Kubernetes, Docker, Jenkins  
 🛠️ Working on [**Velo**](https://github.com/notnine/Velo) — OpenAI-powered mobile (iOS/Android) calendar app (React Native & FastAPI)  
