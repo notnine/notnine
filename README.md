@@ -4,7 +4,7 @@
 💻 2+ years of SWE  
 🧠 Building smart apps with Python, Kotlin, and LLMs  
 📈 Leveling up in Cloud & CI/CD: AWS, Kubernetes, Docker, Jenkins  
-🛠️ Working on [**PixelPaws**] - A cozy web game: create a pet, solve Python, earn coins & XP, furnish a room, climb leaderboards.  
+🛠️ Working on [**PixelPaws**] - A cozy web game: create a pet, solve problems, earn coins & XP, furnish a room, climb leaderboards.  
 🔗 [LinkedIn](https://www.linkedin.com/in/glen-jeremy-1b5938169/)  
 📄 [Resume](https://notnine.github.io/Glen_Jeremy_Resume.pdf)
 
