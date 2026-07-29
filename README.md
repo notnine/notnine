@@ -2,7 +2,7 @@
 
 👨‍💻 Software Engineer @ Fiserv | CS @ UofT (St. George)  
 💻 2+ years of SWE  
-🧠 Building smart apps with Python, Kotlin, and LLMs  
+🧠 Building smart apps with Python, TypeScript, and LLMs  
 📈 Leveling up in Cloud & CI/CD: AWS, Kubernetes, Docker, Jenkins  
 🛠️ Working on [**PixelPaws**] - A cozy web game: create a pet, solve problems, earn coins & XP, furnish a room, climb leaderboards.  
 🔗 [LinkedIn](https://www.linkedin.com/in/glen-jeremy-1b5938169/)  
