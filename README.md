@@ -12,3 +12,5 @@
 [AWS Certified Cloud Practitioner (Completed, 2025)](https://www.credly.com/badges/5fd8ba70-f615-47db-89db-948de449e4b6/linked_in_profile)  
 [AWS Certified AI Practitioner (Completed, 2025)](https://www.credly.com/badges/49f32d75-3a9b-42a0-a22d-27f81869340d/linked_in_profile)  
 AWS Certified Developer – Associate (in progress)
+
+[![My GitFut card](https://gitfut.com/notnine)](https://gitfut.com/notnine)
