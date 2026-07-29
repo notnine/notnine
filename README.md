@@ -13,13 +13,9 @@
 [AWS Certified AI Practitioner (Completed, 2025)](https://www.credly.com/badges/49f32d75-3a9b-42a0-a22d-27f81869340d/linked_in_profile)  
 AWS Certified Developer – Associate (in progress)
 
-⚽ **FIFA Card**
-
 <div>
-  <strong>FIFA Card</strong><br>
+  <strong>⚽ FIFA Card</strong><br>
   <a href="https://gitfut.com/notnine?country=CA">
     <img src="https://gitfut.com/notnine.png?country=CA" alt="Glen's GitFut card" width="200">
   </a>
 </div>
-
-
