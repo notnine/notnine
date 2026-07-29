@@ -14,7 +14,7 @@
 AWS Certified Developer – Associate (in progress)
 
 <div>
-  <strong>⚽ FIFA Card</strong><br>
+  <strong>⚽ GitHub Card</strong><br>
   <a href="https://gitfut.com/notnine?country=CA">
     <img src="https://gitfut.com/notnine.png?country=CA" alt="Glen's GitFut card" width="200">
   </a>
