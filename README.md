@@ -14,5 +14,5 @@
 AWS Certified Developer – Associate (in progress)
 
 <a href="https://gitfut.com/notnine?country=CA">
-  <img src="https://gitfut.com/notnine.png?country=CA" alt="My GitFut card" width="400">
+  <img src="https://gitfut.com/notnine.png?country=CA" alt="My GitFut card" width="200">
 </a>
