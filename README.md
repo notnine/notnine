@@ -1,21 +1,15 @@
-## Hey there 👋 I'm Glen
+# Hey, I'm Glen 👋
 
-👨‍💻 Software Engineer @ Fiserv | CS @ UofT (St. George)  
-💻 2+ years of SWE  
-🧠 Building smart apps with Python, TypeScript, and LLMs  
-📈 Leveling up in Cloud & CI/CD: AWS, Kubernetes, Docker, Jenkins  
-🛠️ Working on [**PixelPaws**] - A cozy web game: create a pet, solve problems, earn coins & XP, furnish a room, climb leaderboards.  
-🔗 [LinkedIn](https://www.linkedin.com/in/glen-jeremy-1b5938169/)  
-📄 [Resume](https://notnine.github.io/Glen_Jeremy_Resume.pdf)
+Software Engineer at **Fiserv**, building backend and payment infrastructure. Computer Science graduate from the **University of Toronto**.
 
-📜 **Certifications**  
-[AWS Certified Cloud Practitioner (Completed, 2025)](https://www.credly.com/badges/5fd8ba70-f615-47db-89db-948de449e4b6/linked_in_profile)  
-[AWS Certified AI Practitioner (Completed, 2025)](https://www.credly.com/badges/49f32d75-3a9b-42a0-a22d-27f81869340d/linked_in_profile)  
-AWS Certified Developer – Associate (in progress)
+Outside of work, I enjoy building AI-powered applications and exploring machine learning.
 
-<!-- <div>
-  <strong>⚽ GitHub Card</strong><br>
-  <a href="https://gitfut.com/notnine?country=CA">
-    <img src="https://gitfut.com/notnine.png?country=CA" alt="Glen's GitFut card" width="200">
-  </a>
-</div> -->
+### 🚀 Projects
+
+- **[Velo 🌀](https://github.com/notnine/Velo)** — AI-powered scheduling assistant with voice input. Built with React Native, FastAPI, and OpenAI.
+- **[Frobot 🤖](https://github.com/notnine/frobot)** — AI chatbot with multiple personality modes, built with React and OpenAI. [Live Demo](https://frobot.netlify.app)
+- **[Monte Carlo Stock Predictor 📈](https://github.com/notnine/montecarlo-stock-predictor)** — Stock price simulations combining Monte Carlo methods and decision tree analysis in Python.
+
+### 🔗 Connect
+
+[LinkedIn](https://www.linkedin.com/in/glen-jeremy) · [Resume](https://notnine.github.io/Glen_Jeremy_Resume.pdf)
