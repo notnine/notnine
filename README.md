@@ -1,4 +1,4 @@
-# Hey, I'm Glen 👋
+# Hi, I'm Glen 👋
 
 Software Engineer at **Fiserv**, building backend and payment infrastructure. Computer Science graduate from the **University of Toronto**.
 
